@@ -1,6 +1,6 @@
 # LeadSquaredAssessment
 
-1. Discount Software Program Test Document
+1. Discount Program Test Document
 
 2. Business Analysis
 
